@@ -1,6 +1,6 @@
 # High Deadline Spawning Fix
 
-A simple mod intended to fix entities not spawning when the amount of days before deadline is above a certain number. Meant to be used with mods that increase the quota deadline, such as [ProgressiveDeadline](https://thunderstore.io/c/lethal-company/p/LethalOrg/ProgressiveDeadline/).
+A simple Lethal Company mod intended to fix entities not spawning when the amount of days before deadline is above a certain number. Meant to be used with mods that increase the quota deadline, such as [ProgressiveDeadline](https://thunderstore.io/c/lethal-company/p/LethalOrg/ProgressiveDeadline/).
 
 This mod should not have any effect if you are not the server host, but may or may not cause desyncs if not all players have the mod (untested).
 
