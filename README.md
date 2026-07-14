@@ -54,3 +54,4 @@ For a better understanding of how Modulo works, it treats higher deadline days a
 This mod was made for v81 and is originally intended for use in a personal duos modpack, and will likely not be maintained in the future. Please do not contact me, as I am a very busy person.
 
 This mod may not be compatible with other mods that modify the game's entity spawning logic.
+This mod may not be compatible with other mods that modify the game's entity spawning logic.
